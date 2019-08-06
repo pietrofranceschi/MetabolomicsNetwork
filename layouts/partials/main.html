@@ -1,0 +1,14 @@
+<div class="row section featured topspace">
+
+    <div class="">
+        {{ range where .Data.Pages "Section" "main" }}
+            <div class="col-sm-12">
+                <h3 class="text-center">{{ .Title }}</h3>
+                <center>
+                <h5>{{ .Content }}</h5>
+                </center>
+            </div>
+        {{ end }}
+    </div>
+
+</div> <!-- / section -->

@@ -1,0 +1,78 @@
+baseURL = https://pietrofranceschi.github.io/MetabolomicsNetwork/"
+languageCode = "en"
+title = "Italian Metabolomics Network"
+publishDir = "docs"
+
+[params]
+    name = "Italian Metabolomics Network"
+    description = "Aggregating Metabolomics in Italy"
+    email = ""
+    phone = ""
+    address = ""
+    year = 2019
+    avatar = "images/logo.png"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    footerEnableContact = false
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Mission"
+    url = "/mission/"
+    weight = 2
+
+[[menu.main]]
+    name = "Participants"
+    url = "/participants/"
+    weight = 3
+
+[[menu.main]]
+    name = "Join the Network"
+    url = "/join/"
+    weight = 4
+
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 5
+
+[[menu.main]]
+    name = "Supporters"
+    url = "/supporters/"
+    weight = 6
+
+
+
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"
