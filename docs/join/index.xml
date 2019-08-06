@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joins on Italian Metabolomics Network</title>
+    <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/</link>
+    <description>Recent content in Joins on Italian Metabolomics Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pietrofranceschi.github.io/MetabolomicsNetwork/join/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>To become a member</title>
+      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</guid>
+      <description>Our objective is to make the Network as open and flexible as possible. Every researcher/professional active in the field of metabolomics is welcomed.
+ Membership is free of charge The name of the associates and their affiliation will be displeyed on the network website Members will be automatically added to the Network newsletter  To join the network Contact by e-mail one of the promoters sending a request of association. The e-mail should include:</description>
+    </item>
+    
+  </channel>
+</rss>
