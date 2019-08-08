@@ -5,21 +5,21 @@ title = "To become a member"
 +++
 
 Our objective is to make the Network as ***open*** and ***flexible*** as possible. 
-Every researcher/professional active in the field of metabolomics is welcomed. 
+Everybody active in the field of metabolomics is invited to apply and participate. 
 
 * Membership is free of charge 
-* The name of the associates and their affiliation will be displeyed on the network website
+* The name of the associates and their affiliation will be displayed on the network website
 * Members will be automatically added to the Network newsletter
 
 <h5>To join the network</h5>
 
 Contact by e-mail one of the promoters sending a request of association. The e-mail should include:
 
-* a statement specifying that you accept to appear on the network website and to be added to the network newsletter
+* a statement confirming your explicit consent to have your contact details on the network website and your consent to be added to the network newsletter. 
 * your affiliation 
-* the name of two network members who support your application 
+* the registration form, duly completed
 
-Fill the registration form.
+The Members will have their names, affiliation and contact details reported on the network website and will automatically receive the Network newsletter
 
 
 

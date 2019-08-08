@@ -5,7 +5,7 @@ publishDir = "docs"
 
 [params]
     name = "Italian Metabolomics Network"
-    description = "Aggregating Metabolomics in Italy"
+    description = ""
     email = ""
     phone = ""
     address = ""
