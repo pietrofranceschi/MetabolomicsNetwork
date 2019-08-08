@@ -10,8 +10,6 @@ title = "Participants"
 </center>
 
 
-**Participants**
-
 * Andrea Armirotti - Istituto Italiano di Tecnologia, Genova
 * Luigi Atzori - University of Cagliari
 * Pierluigi Caboni - University of Cagliari
