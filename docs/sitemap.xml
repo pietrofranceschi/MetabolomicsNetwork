@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/participants/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -42,6 +47,12 @@
   
   <url>
     <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/mission/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
