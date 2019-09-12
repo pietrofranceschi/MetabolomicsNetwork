@@ -1,4 +1,4 @@
-baseURL = "https://pietrofranceschi.github.io/MetabolomicsNetwork/"
+baseURL = "http://www.metabonet.it"
 languageCode = "en"
 title = "Italian Metabolomics Network"
 publishDir = "docs"

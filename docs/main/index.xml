@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mains on Italian Metabolomics Network</title>
-    <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/</link>
+    <link>http://www.metabonet.it/main/</link>
     <description>Recent content in Mains on Italian Metabolomics Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pietrofranceschi.github.io/MetabolomicsNetwork/main/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.metabonet.it/main/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Join us!</title>
-      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/inevidenza/</link>
+      <link>http://www.metabonet.it/main/inevidenza/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/inevidenza/</guid>
+      <guid>http://www.metabonet.it/main/inevidenza/</guid>
       <description>The Italian Metabolomics Network (IMN) aims at bringing together people with different backgrounds actively working in the field of metabolomics, and, more broadly, in the study of metabolism.
 The objective is to promote networking, by offering opportunities for discussion, collaboration, training and exchanges between the participants.</description>
     </item>

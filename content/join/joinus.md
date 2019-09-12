@@ -13,7 +13,7 @@ Everybody active in the field of metabolomics is invited to apply and participat
 
 <h5>To join the network</h5>
 
-Contact by e-mail one of the promoters sending a request of association. The e-mail should include:
+Contact by e-mail one of the [promoters]({{< ref "/participants/participants.md" >}}) sending a request of association. The e-mail should include:
 
 * a statement confirming your explicit consent to have your contact details on the network website and your consent to be added to the network newsletter. 
 * your affiliation 

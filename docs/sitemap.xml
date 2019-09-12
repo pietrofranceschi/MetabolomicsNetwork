@@ -3,62 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/mission/mission/</loc>
+    <loc>http://www.metabonet.it/activities/activities/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/participants/</loc>
+    <loc>http://www.metabonet.it/mission/mission/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</loc>
+    <loc>http://www.metabonet.it/participants/participants/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/inevidenza/</loc>
+    <loc>http://www.metabonet.it/join/joinus/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.metabonet.it/main/inevidenza/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/</loc>
+    <loc>http://www.metabonet.it/activities/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/</loc>
+    <loc>http://www.metabonet.it/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.metabonet.it/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/</loc>
+    <loc>http://www.metabonet.it/join/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.metabonet.it/main/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/mission/</loc>
+    <loc>http://www.metabonet.it/mission/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/</loc>
+    <loc>http://www.metabonet.it/participants/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pietrofranceschi.github.io/MetabolomicsNetwork/tags/</loc>
+    <loc>http://www.metabonet.it/tags/</loc>
     <priority>0</priority>
   </url>
   

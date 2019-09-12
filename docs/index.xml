@@ -2,21 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italian Metabolomics Network</title>
-    <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/</link>
+    <link>http://www.metabonet.it/</link>
     <description>Recent content on Italian Metabolomics Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pietrofranceschi.github.io/MetabolomicsNetwork/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.metabonet.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mission</title>
-      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/mission/mission/</link>
+      <title>Activities</title>
+      <link>http://www.metabonet.it/activities/activities/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/mission/mission/</guid>
+      <guid>http://www.metabonet.it/activities/activities/</guid>
+      <description>4th MetaboMI Meeting - Integrative Metabolomics  University of Milano-Bicocca: Room U4-08, floor -1, building U4 October 2, 2019 : 14:00 
+ 4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads  IFOM Conference Room (Bldg. 9), Milan - Italy November 14-15, 2019 
+ Advances in MS and NMR metabolomics Complesso S. Micheletto, Lucca - Italy November 20-22, 2019 
+ European RFMF Metabomeeting Toulouse - France January 22-24, 2020</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>http://www.metabonet.it/mission/mission/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.metabonet.it/mission/mission/</guid>
       <description>IMN is a home for all researchers doing metabolomics in Italy. The Network is open to everybody, no matter the research topic, or the technique used, or the professional level, or the scientific background, or the affiliation. If the investigation of the metabolome is part of your everyday work (and passion), then you are welcome to join!
 The participation to the network is free.
 We only ask you to actively participate and promote the activities of the Network.</description>
@@ -24,30 +36,30 @@ We only ask you to actively participate and promote the activities of the Networ
     
     <item>
       <title>Participants</title>
-      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/participants/</link>
+      <link>http://www.metabonet.it/participants/participants/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/participants/participants/</guid>
+      <guid>http://www.metabonet.it/participants/participants/</guid>
       <description>  
- Andrea Armirotti - Istituto Italiano di Tecnologia, Genova Luigi Atzori - University of Cagliari Pierluigi Caboni - University of Cagliari Pietro Franceschi - Fondazione E. Mach, Trento Giuseppe Giordano - University of Padova Stefano Mammi - University of Padova Luisa Mannina - University of Rome, La Sapienza Giuseppe Paglia - University of Milano Bicocca Roberta Pastorelli - Istituto di Ricerche Farmacologiche Mario Negri IRCCS-MIlano Giuseppe Pieraccini - University of Florence Matteo Stocchero - University of Padova Sara Tortorella - Molecular Horizon, Perugia Paola Turano - University of Florence  </description>
+ Andrea Armirotti - IIT, Genova - armirotti[at]iit.it Luigi Atzori - University of Cagliari - latzori[at]unica.it Pierluigi Caboni - University of Cagliari Pietro Franceschi - Fondazione E. Mach, Trento - pietro.franceschi[at]fmach.it Giuseppe Giordano - University of Padova Stefano Mammi - University of Padova Luisa Mannina - University of Rome, La Sapienza Giuseppe Paglia - University of Milano Bicocca Roberta Pastorelli - Istituto Mario Negri IRCCS-MIlano Giuseppe Pieraccini - University of Florence Matteo Stocchero - University of Padova Sara Tortorella - Molecular Horizon, Perugia Paola Turano - University of Florence  </description>
     </item>
     
     <item>
       <title>To become a member</title>
-      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</link>
+      <link>http://www.metabonet.it/join/joinus/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/join/joinus/</guid>
+      <guid>http://www.metabonet.it/join/joinus/</guid>
       <description>Our objective is to make the Network as open and flexible as possible. Everybody active in the field of metabolomics is invited to apply and participate.
  Membership is free of charge The name of the associates and their affiliation will be displayed on the network website Members will be automatically added to the Network newsletter  To join the network Contact by e-mail one of the promoters sending a request of association.</description>
     </item>
     
     <item>
       <title>Join us!</title>
-      <link>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/inevidenza/</link>
+      <link>http://www.metabonet.it/main/inevidenza/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pietrofranceschi.github.io/MetabolomicsNetwork/main/inevidenza/</guid>
+      <guid>http://www.metabonet.it/main/inevidenza/</guid>
       <description>The Italian Metabolomics Network (IMN) aims at bringing together people with different backgrounds actively working in the field of metabolomics, and, more broadly, in the study of metabolism.
 The objective is to promote networking, by offering opportunities for discussion, collaboration, training and exchanges between the participants.</description>
     </item>
