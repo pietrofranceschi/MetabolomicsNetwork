@@ -17,7 +17,6 @@ Contact by e-mail one of the network members sending a request of association. T
 
 * a statement confirming your explicit consent to have your contact details on the network website and your consent to be added to the network newsletter. 
 * your affiliation 
-* the registration form, duly completed
 
 The Members will have their names, affiliation and contact details reported on the network website and will automatically receive the Network newsletter
 
