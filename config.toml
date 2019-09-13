@@ -1,7 +1,8 @@
-baseURL = "www.metabonet.it"
+baseURL = "https://pietrofranceschi.github.io/MetabolomicsNetwork/"
 languageCode = "en"
 title = "Italian Metabolomics Network"
 publishDir = "docs"
+
 
 [params]
     name = "Italian Metabolomics Network"
@@ -16,7 +17,7 @@ publishDir = "docs"
     DateForm = "January 2, 2006"
 
     footerEnableContact = false
-    footerEnableFollowme = true
+    footerEnableFollowme = false
     footerEnableTextWidget = false
     footerEnableFormWidget = false
 

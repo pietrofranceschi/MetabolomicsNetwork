@@ -6,7 +6,7 @@ title = "Participants"
 
 
 <center>
-<iframe width="80%" height="400" name="iframe" frameborder="0" src="../map.html"></iframe>
+<iframe width="80%" height="400" name="iframe" frameborder="0" src="../../map.html"></iframe>
 </center>
 
 
@@ -23,4 +23,5 @@ title = "Participants"
 * Matteo Stocchero - University of Padova
 * Sara Tortorella - Molecular Horizon, Perugia
 * Paola Turano - University of Florence
+
 
