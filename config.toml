@@ -2,7 +2,7 @@ baseURL = "https://pietrofranceschi.github.io/MetabolomicsNetwork/"
 languageCode = "en"
 title = "Italian Metabolomics Network"
 publishDir = "docs"
-
+relativeURLs = "true"
 
 [params]
     name = "Italian Metabolomics Network"
