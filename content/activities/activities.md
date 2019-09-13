@@ -5,16 +5,16 @@ title = "Activities"
 +++
 
 <center>
-[<h5>4th MetaboMI Meeting - Integrative Metabolomics </h5>](https://www.ifom.eu/events/2019-breaking-boundaries/)
+[<h5>4th MetaboMI Meeting - Integrative Metabolomics </h5>](https://www.unimib.it/eventi/4th-metabomi-meeting-integrative-metabolomics)
 University of Milano-Bicocca: 
 Room U4-08, floor -1, building U4 <br>
 **October 2, 2019 : 14:00**
 </center>
 
-----
+----   
 
 <center>
-[<h5>4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads </h5>](https://www.unimib.it/eventi/4th-metabomi-meeting-integrative-metabolomics)
+[<h5>4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads </h5>](https://www.ifom.eu/events/2019-breaking-boundaries/)
 IFOM Conference Room (Bldg. 9), Milan - Italy <br>
 **November 14-15, 2019**
 </center>
