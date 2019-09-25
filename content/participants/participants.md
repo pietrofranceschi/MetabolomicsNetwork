@@ -20,7 +20,7 @@ title = "Participants"
 * Giuseppe Giordano -  University of Padova - _giuseppe.giordano[at]unipd.it_
 * Stefano Mammi - University of Padova - _stefano.mammi[at]unipd.it_
 * Luisa Mannina - University of Rome, La Sapienza - _luisa.mannina[at]uniroma1.it_
-* Nico Mitro - University of Milano - _nico.mitro@unimi.it_
+* Nico Mitro - University of Milano - _nico.mitro[at]unimi.it_
 * Giuseppe Paglia - University of Milano Bicocca
 * Roberta Pastorelli - Istituto Mario Negri IRCCS-MIlano - _roberta.pastorelli[at]marionegri.it_
 * Giuseppe Pieraccini - University of Florence - _giuseppe.pieraccini[at]unifi.it_
