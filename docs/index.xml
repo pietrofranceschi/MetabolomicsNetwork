@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italian Metabolomics Network</title>
+    <link>https://metabonet.it/</link>
+    <description>Recent content on Italian Metabolomics Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://metabonet.it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activities</title>
+      <link>https://metabonet.it/activities/activities/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://metabonet.it/activities/activities/</guid>
+      <description>4th MetaboMI Meeting - Integrative Metabolomics  University of Milano-Bicocca: Room U4-08, floor -1, building U4 October 2, 2019 : 14:00 
+ 4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads  IFOM Conference Room (Bldg. 9), Milan - Italy November 14-15, 2019 
+ Advances in MS and NMR metabolomics Complesso S. Micheletto, Lucca - Italy November 20-22, 2019 
+ European RFMF Metabomeeting Toulouse - France January 22-24, 2020</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>https://metabonet.it/mission/mission/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://metabonet.it/mission/mission/</guid>
+      <description>IMN is a home for all researchers doing metabolomics in Italy. The Network is open to everybody, no matter the research topic, or the technique used, or the professional level, or the scientific background, or the affiliation. If the investigation of the metabolome is part of your everyday work (and passion), then you are welcome to join!
+The participation to the network is free.
+We only ask you to actively participate and promote the activities of the Network.</description>
+    </item>
+    
+    <item>
+      <title>Participants</title>
+      <link>https://metabonet.it/participants/participants/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://metabonet.it/participants/participants/</guid>
+      <description>Annapaola Andolfo - San Raffaele Scientific Institute, Milano - andolfo.annapaola[at]hsr.it Andrea Armirotti - IIT, Genova - armirotti[at]iit.it Luigi Atzori - University of Cagliari - latzori[at]unica.it Angela Bachi - IFOM-FIRC, Milano - angela.bachi[at]ifom.eu Pierluigi Caboni - University of Cagliari - caboni[at]unica.it Pietro Franceschi - Fondazione E. Mach, Trento - pietro.franceschi[at]fmach.it Daniela Gaglio - IBFM-CNR, Milano - daniela.gaglio[at]ibfm.cnr.it Giuseppe Giordano - University of Padova - giuseppe.giordano[at]unipd.it Stefano Mammi - University of Padova - stefano.</description>
+    </item>
+    
+    <item>
+      <title>To become a member</title>
+      <link>https://metabonet.it/join/joinus/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://metabonet.it/join/joinus/</guid>
+      <description>Our objective is to make the Network as open and flexible as possible. Everybody active in the field of metabolomics is invited to apply and participate.
+ Membership is free of charge The name of the associates and their affiliation will be displayed on the network website Members will be automatically added to the Network newsletter  To join the network Contact by e-mail one of the network members sending a request of association.</description>
+    </item>
+    
+    <item>
+      <title>Join us!</title>
+      <link>https://metabonet.it/main/inevidenza/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://metabonet.it/main/inevidenza/</guid>
+      <description>The Italian Metabolomics Network (IMN) aims at bringing together people with different backgrounds actively working in the field of metabolomics, and, more broadly, in the study of metabolism.
+The objective is to promote networking, by offering opportunities for discussion, collaboration, training and exchanges between the participants.</description>
+    </item>
+    
+  </channel>
+</rss>
