@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Participants on Italian Metabolomics Network</title>
-    <link>https://metabonet.it/participants/</link>
+    <link>http://metabonet.it/participants/</link>
     <description>Recent content in Participants on Italian Metabolomics Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://metabonet.it/participants/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://metabonet.it/participants/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Participants</title>
-      <link>https://metabonet.it/participants/participants/</link>
+      <link>http://metabonet.it/participants/participants/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://metabonet.it/participants/participants/</guid>
+      <guid>http://metabonet.it/participants/participants/</guid>
       <description>Annapaola Andolfo - San Raffaele, Milano - andolfo.annapaola[at]hsr.it Andrea Armirotti - IIT, Genova - armirotti[at]iit.it Luigi Atzori - University of Cagliari - latzori[at]unica.it Angela Bachi - IFOM-FIRC, Milano - angela.bachi[at]ifom.eu Pierluigi Caboni - University of Cagliari - caboni[at]unica.it Pietro Franceschi - Fondazione E. Mach, Trento - pietro.franceschi[at]fmach.it Daniela Gaglio - IBFM-CNR, Milano - daniela.gaglio[at]ibfm.cnr.it Giuseppe Giordano - University of Padova - giuseppe.giordano[at]unipd.it Graziano Guella - University of Trento - graziano.</description>
     </item>
     
