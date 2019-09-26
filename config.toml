@@ -1,4 +1,4 @@
-baseURL = "https://metabonet.it"
+baseURL = "https://metabonet.it/"
 languageCode = "en"
 title = "Italian Metabolomics Network"
 publishDir = "docs"
