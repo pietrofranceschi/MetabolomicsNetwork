@@ -24,9 +24,10 @@ title = "Participants"
 * **Luisa Mannina** - University of Rome, La Sapienza - _luisa.mannina[at]uniroma1.it_
 * **Claudio Medana** - University of Torino - _claudio.medana[at]unito.it_
 * **Nico Mitro** - University of Milano - _nico.mitro[at]unimi.it_
-* **Giuseppe Paglia** - University of Milano Bicocca
+* **Giuseppe Paglia** - University of Milano Bicocca - _giuseppe.paglia[at]unimib.it_
 * **Roberta Pastorelli** - Istituto Mario Negri-MIlano - _roberta.pastorelli[at]marionegri.it_
 * **Giuseppe Pieraccini** - University of Florence - _giuseppe.pieraccini[at]unifi.it_
+* **Paola Scano** - University of Cagliari - _scano[at]unica.it_ 
 * **Matteo Stocchero** - University of Padova - _matteo.stocchero[at]unipd.it_
 * **Sara Tortorella** - Molecular Horizon, Perugia - _sara[at]molhorizon.it_
 * **Paola Turano** - University of Florence - _turano[at]cerm.unifi.it_
