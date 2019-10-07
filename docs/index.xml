@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>Activities</title>
-      <link>http://metabonet.it/activities/activities/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://metabonet.it/activities/activities/</guid>
-      <description>4th MetaboMI Meeting - Integrative Metabolomics  University of Milano-Bicocca: Room U4-08, floor -1, building U4 October 2, 2019 : 14:00 
- 4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads  IFOM Conference Room (Bldg. 9), Milan - Italy November 14-15, 2019 
- Advances in MS and NMR metabolomics Complesso S. Micheletto, Lucca - Italy November 20-22, 2019 
- European RFMF Metabomeeting Toulouse - France January 22-24, 2020</description>
-    </item>
-    
-    <item>
       <title>Mission</title>
       <link>http://metabonet.it/mission/mission/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
@@ -40,7 +28,7 @@ We only ask you to actively participate and promote the activities of the Networ
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://metabonet.it/participants/participants/</guid>
-      <description>Annapaola Andolfo - San Raffaele, Milano - andolfo.annapaola[at]hsr.it Andrea Armirotti - IIT, Genova - armirotti[at]iit.it Luigi Atzori - University of Cagliari - latzori[at]unica.it Angela Bachi - IFOM-FIRC, Milano - angela.bachi[at]ifom.eu Pierluigi Caboni - University of Cagliari - caboni[at]unica.it Pietro Franceschi - Fondazione E. Mach, Trento - pietro.franceschi[at]fmach.it Daniela Gaglio - IBFM-CNR, Milano - daniela.gaglio[at]ibfm.cnr.it Giuseppe Giordano - University of Padova - giuseppe.giordano[at]unipd.it Graziano Guella - University of Trento - graziano.</description>
+      <description>Annapaola Andolfo - San Raffaele, Milano - andolfo.annapaola[at]hsr.it Andrea Armirotti - IIT, Genova - armirotti[at]iit.it Luigi Atzori - University of Cagliari - latzori[at]unica.it Angela Bachi - IFOM-FIRC, Milano - angela.bachi[at]ifom.eu Pierluigi Caboni - University of Cagliari - caboni[at]unica.it Gaetano Corso - University of Foggia - gaetano.corso[at]unifg.it Pietro Franceschi - Fondazione E. Mach, Trento - pietro.franceschi[at]fmach.it Daniela Gaglio - IBFM-CNR, Milano - daniela.gaglio[at]ibfm.cnr.it Giuseppe Giordano - University of Padova - giuseppe.</description>
     </item>
     
     <item>
@@ -51,6 +39,17 @@ We only ask you to actively participate and promote the activities of the Networ
       <guid>http://metabonet.it/join/joinus/</guid>
       <description>Our objective is to make the Network as open and flexible as possible. Everybody active in the field of metabolomics is invited to apply and participate.
  Membership is free of charge The name of the associates and their affiliation will be displayed on the network website Members will be automatically added to the Network newsletter  To join the network Contact by e-mail one of the network members sending a request of association.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>http://metabonet.it/activities/activities/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://metabonet.it/activities/activities/</guid>
+      <description>4th IFOM Symposium - Breaking Boundaries: Metabolism at the Cross-roads  IFOM Conference Room (Bldg. 9), Milan - Italy November 14-15, 2019 
+ Advances in MS and NMR metabolomics Complesso S. Micheletto, Lucca - Italy November 20-22, 2019 
+ European RFMF Metabomeeting Toulouse - France January 22-24, 2020</description>
     </item>
     
     <item>
