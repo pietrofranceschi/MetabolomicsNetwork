@@ -5,8 +5,8 @@ publishDir = "docs"
 relativeURLs = "False"
 
 [params]
-    name = "Italian Metabolomics Network"
-    description = ""
+    name = "Italian Metabolomics Network - IMN"
+    description = "IMN - Italian Metabolomics Network"
     email = ""
     phone = ""
     address = ""
@@ -46,6 +46,10 @@ relativeURLs = "False"
     url = "/activities/"
     weight = 5
 
+[[menu.main]]
+    name = "Job Opportunities"
+    url = "/job/"
+    weight = 5
 
 
 

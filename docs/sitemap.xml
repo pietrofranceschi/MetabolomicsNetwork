@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://metabonet.it/job/job/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://metabonet.it/participants/participants/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -40,6 +45,12 @@
   
   <url>
     <loc>http://metabonet.it/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://metabonet.it/job/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

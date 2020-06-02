@@ -9,4 +9,3 @@ IMN is a home for all researchers doing metabolomics in Italy. The Network is op
 The participation to the network is free.
 
 We only ask you to actively participate and promote the activities of the Network.
-

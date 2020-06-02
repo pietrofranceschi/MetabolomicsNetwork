@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on Italian Metabolomics Network</title>
+    <link>http://metabonet.it/job/</link>
+    <description>Recent content in Jobs on Italian Metabolomics Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://metabonet.it/job/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Positions</title>
+      <link>http://metabonet.it/job/job/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://metabonet.it/job/job/</guid>
+      <description>Università degli Studi di Milano
+Biochemistry and Molecular Biology of Metabolism-Mass Spectrometry Lab
+Three positions (1 Postdoc, 1 Computational Postdoc and 1 Technician) are available in the “Giovanni Galli” laboratory of Biochemistry and Molecular Biology of Metabolism - Mass Spectrometry within the Department of Pharmacological and Biomolecular Sciences-DiSFeB
+Complete Announcement</description>
+    </item>
+    
+  </channel>
+</rss>
